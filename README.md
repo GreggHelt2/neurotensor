@@ -1,2 +1,2 @@
 # neurotensor
-Experiments with neural segmentation and reconstruction in TensorFlow
+Experiments with neuronal segmentation and reconstruction in TensorFlow
